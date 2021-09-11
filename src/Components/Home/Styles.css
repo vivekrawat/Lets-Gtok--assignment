@@ -1,0 +1,70 @@
+.header {
+    background-color: #338BA8;
+    padding: 6rem;
+    text-align: center;
+}
+.header-card {
+    background-color: white;
+    padding: 4rem 2rem;
+    margin: 0rem 0rem;
+    opacity: 0.8;
+}
+.header-card-span {
+    color: blue;
+    font-weight: bold
+}
+.header-breadcrumb{
+    align-items: center;
+    position: relative;
+    top: 5rem;
+    display:inline-flex;
+    text-align: center;
+    color: white;
+}
+.about {
+    background-color: #774699;
+    padding:6rem;
+}
+.about-read {
+    background-color: white;
+    text-align:center;
+}
+.about-content {
+    padding: 4rem;
+    padding-left: 4em
+}
+.main-child {
+    background-color:rgba(0,0,0,0.2);
+    padding: 2rem;
+}
+.main {
+    padding: 2rem;
+}
+h3{
+    text-align: center;
+    color: rgba(0,0,0,0.6)
+}
+h2{
+    color: rgba(0,0,0,0.6);
+    text-align: center
+}
+.activity{
+    font-size: 0.9rem;
+    color: rgba(0,0,0,0.6)
+}
+.activity-title {
+    background-color: rgba(0,0,0,0.1);
+    display: inline-block;
+}
+.activity-user {
+    color: rgba(0,0,0,0.9);
+}
+.activity-time {
+    font-size: 0.8rem;
+    display: block;
+}
+.footer {
+    padding: 4rem;
+    background-color: rgb(120, 173, 218);
+}
+
